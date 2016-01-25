@@ -1,0 +1,15 @@
+{
+  "name": "secstamp",
+  "version": "1.0.0",
+  "description": "converts seconds to timestamp string (hh:mm:ss)",
+  "main": "index.js",
+  "scripts": {
+    "test": "tape test"
+  },
+  "keywords": [],
+  "author": "Sidd Sridharan <sidd@sidd.com> (http://sidd.com)",
+  "license": "MIT",
+  "devDependencies": {
+    "tape": "^4.4.0"
+  }
+}
