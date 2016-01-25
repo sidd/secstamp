@@ -9,6 +9,10 @@
   "keywords": [],
   "author": "Sidd Sridharan <sidd@sidd.com> (http://sidd.com)",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/sidd/secstamp.git"
+  },  
   "devDependencies": {
     "tape": "^4.4.0"
   }
